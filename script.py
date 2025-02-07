@@ -25,4 +25,4 @@ for food in cafeteria_food:
 	answer = input("Do you like " + food + "? (yes/no):")
 
 # Answers:
-# To save the user's response to each prompt and associate the response with the food in question. We use the dictionary data type.
+# To save the user's response to each prompt and associate the response with the food in question. We use the TUPLE data type.
