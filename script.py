@@ -26,4 +26,4 @@ for food in cafeteria_food:
 
 # Answers:
 # To save the user's response to each prompt and associate the response with the food in question.
-# We use the su=ictionary data type.
+# We use the dictionary data type.
